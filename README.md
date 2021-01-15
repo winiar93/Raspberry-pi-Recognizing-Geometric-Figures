@@ -1,5 +1,5 @@
 # Raspberry-pi-Recognizing-Geometric-Figures
-Program which can recognize geometric figures, using OpenCV installed on raspberry pi
+Program which can recognize geometric figures in real time camera feed, using OpenCV installed on raspberry pi
 
 To run this code you need:
 - python 3
